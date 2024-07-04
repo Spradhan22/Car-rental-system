@@ -1,0 +1,6 @@
+Car1		bad		500		1		None		NA		Available
+Car2		good		90		2		None		NA		Available
+Car3		mid		348		3		None		NA		Available
+Car4		bad		900		4		None		NA		Available
+Car5		Poor		900		5		None		NA		Available
+Car6		good		800		6		None		NA		Available
